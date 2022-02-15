@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="home_style.css">
+    <title>My company!</title>
+</head>
+
+<body>
+    <h1>
+        <center> TechnoWorld</center>
+    </h1>
+    <p>Now discover wide range of products with highly advanced features and reasonable prices. From headphones , keyboards , mouse to LEDs ,speakers, mobiles. Now one step to all your needs. Say TechnoWorld!</p>
+
+    <img class="img1" src="https://www.mytrendyphone.eu/images/Forever-Music-Soul-BHS-300-Bluetooth-Headphones-with-Microphone-Black-5900495738110-17072019-01-p.jpg" alt="">
+    <img class="img2" src="https://m.media-amazon.com/images/I/71vZypjNkPS._SX425_.jpg" alt="">
+    <img class="img3" src="https://i.pcmag.com/imagery/reviews/00EU3U5rRoe9swRlkJE2yDa-1.fit_lim.size_625x365.v1601052236.jpg" alt="">
+    <img class="img4" src="data:image/jpeg;base64,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"
+        alt="">
+    <br>
+    <br>
+    <h1 id="head1">Features:</h1>
+    <ul>
+        <li>Highly enhanced base</li>
+        <li>Reasonable prices</li>
+        <li>warranty upto 1 year</li>
+        <li>Good quality sound</li>
+        <li>enhanced pixels </li>
+    </ul>
+    <footer>copyright 2022</footer>
+</body>
+
+</html>
