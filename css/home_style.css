@@ -1,0 +1,93 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 200px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/736x/13/ef/72/13ef72542cc8c33f48df0e5adfdbedeb.jpg);
+    background-size: 90%;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+.img1 {
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.img2 {
+    height: 300px;
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.img3 {
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    height: 300px;
+}
+
+.img4 {
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    height: 300px;
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+#head1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    color: burlywood
+}
+
+footer {
+    background-color: white;
+    color: blue;
+    height: 25px;
+    font-size: 25px;
+}
+
+
+/*
+.img2 {
+    width: 300px;
+    height: 300px;
+    margin-left: 450px;
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    position: relative;
+    margin-top: 10px;
+}
+
+.img3 {
+    width: 300px;
+    height: 300px;
+    margin-left: 450px;
+    border-color: blue;
+    border-width: 10px;
+    position: relative;
+    border-style: solid;
+}
+*/
