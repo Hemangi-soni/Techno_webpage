@@ -1,0 +1,52 @@
+nav {
+    color: blue;
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+li {
+    float: left;
+    padding-left: 120px;
+}
+
+li a {
+    display: block;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px 26px;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/736x/13/ef/72/13ef72542cc8c33f48df0e5adfdbedeb.jpg);
+    background-size: 90%;
+}
+
+li a:hover {
+    background-color: powderblue;
+    color: black;
+}
+
+#head1 {
+    font-family: "Arial Black";
+    font-size: 130px;
+    font-weight: bold;
+    color: blue;
+    margin-bottom: 0%;
+}
+
+#head2 {
+    color: chocolate;
+    font-family: 'Cascadia Code ExtraLight';
+    font-size: 80px;
+    margin-top: 0%;
+}
