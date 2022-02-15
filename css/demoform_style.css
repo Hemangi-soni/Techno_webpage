@@ -1,0 +1,29 @@
+label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+
+input {
+    width: 120px;
+    height: 30px
+}
+
+select {
+    height: 30px;
+    width: 120px;
+}
+
+legend {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: blue
+}
+
+body {
+    background-image: url(https://i.pinimg.com/736x/13/ef/72/13ef72542cc8c33f48df0e5adfdbedeb.jpg);
+    background-size: 90%;
+}
